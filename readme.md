@@ -12,3 +12,5 @@ Advent of code is a daily coding challenge, with fun small problems released dai
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 1
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 2
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ Day 3
