@@ -15,10 +15,6 @@ def challenge(input):
         if ( (fstL <= fstR <= scndL) or
            (fstR <= fstL <= scndR) ):
            numSubseq += 1
-           print(splitIntoFour(inputLine))
-        # conditions; 
-        # firstL - secondL <= 0 && firstR - secondR >= 0
-        # firstL - secondL >= 0 && firstR - secondR <= 0
     return numSubseq
 
 with open('input.txt') as file:
