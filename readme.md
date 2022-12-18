@@ -7,7 +7,7 @@ I am completing advent of code in python this year, to keep a daily small challe
 ## Advent of Code
 Advent of code is a daily coding challenge, with fun small problems released daily.
 
-**Challenged Completed;**
+**Challenges Completed;**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 1
 
@@ -17,4 +17,6 @@ Advent of code is a daily coding challenge, with fun small problems released dai
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 4
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★ Day 5
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 5
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ★★ Day 6
